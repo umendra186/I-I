@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test">
+		<packages>
+			<package name="KWA25_DenominationPage" />
+			<package name="KWA36_SendButton" />
+			<package name="KWA37_egiftPickup" />
+			<package name="KWA38_SearchScreen" />
+			<package name="KWA39_SearchPerimeters" />
+			<package name="KWA40_FixedDenominationPage" />
+			<package name="KWA42_eGiftCartScreen" />
+			<package name="KWA43_BuyCancelButton" />
+			<package name="KWA44_TenderScreen" />
+			<package name="KWA45_CreditCardScreen" />
+		</packages>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

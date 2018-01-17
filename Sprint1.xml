@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test">
+		<packages>
+			<package name="KWA08_BuyScan" />
+			<package name="KWA09_SearchScan" />
+			<package name="KWA10_ScanInstructionPrompt" />
+			<package name="KWA11_AddingItems" />
+			<package name="KWA12_ScreenMorph" />
+			<package name="KWA13_CartAdjustment" />
+			<package name="KWA14_BuyCancelButton" />
+			<package name="KWA15_TenderScreen" />
+			<package name="KWA16_CreditCardScreen" />
+			<package name="KWA17_DebitCardScreen" />
+			<package name="KWA18_MobileWalletScreen" />
+
+		</packages>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
